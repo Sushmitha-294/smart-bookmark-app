@@ -4,17 +4,17 @@ A secure, cloud-based bookmark management application with real-time synchroniza
 
 ## Features
 
-- 🔐 **Google OAuth Authentication** - Secure login without passwords
-- 🔖 **Bookmark Management** - Create and delete bookmarks
-- 🔒 **Privacy-First** - Row-level security ensures users only see their own bookmarks
-- ⚡ **Real-time Sync** - Instant updates across multiple tabs and devices
-- 📱 **Responsive Design** - Works on desktop and mobile
+- Google OAuth Authentication - Secure login without passwords
+- Bookmark Management - Create and delete bookmarks
+- Privacy-First - Row-level security ensures users only see their own bookmarks
+- Real-time Sync - Instant updates across multiple tabs and devices
+- Responsive Design- Works on desktop and mobile
 
 ## Tech Stack
 
-- **Frontend**: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4
-- **Backend**: Supabase (Auth, Database, Realtime)
-- **Deployment**: Vercel
+- Frontend: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4
+- Backend: Supabase (Auth, Database, Realtime)
+- Deployment: Vercel
 
 ## Quick Start
 
